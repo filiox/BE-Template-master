@@ -124,3 +124,11 @@ When you have finished the assignment, create a github repository and send us th
   
 
 Thank you and good luck! 🙏
+
+
+//Improvements in case of additional time
+1. I would have changed the design so that:
+  a. There would be controller classes for for job, profile, contracts etc.
+  b. There would be classes for job, profile, contracts etc.
+  c. Implement a router to route the requests to the respective controller.
+2. Better error and exception handling.
